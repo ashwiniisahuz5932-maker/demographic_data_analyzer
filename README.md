@@ -69,16 +69,19 @@ People working minimum hours rarely earn >50K (~10%)
 🌍 3. Income varies a lot by country
 Iran has highest % of people earning >50K (~41.9%)
 
+
 👉 Conclusion: Geography plays a role in income distribution
 
 👨‍💼 4. Occupation plays a key role
 In India, top high-paying job = Prof-specialty
+
 
 👉 Conclusion: Specialized professions dominate high-income groups
 
 👥 5. Demographic distribution insight
 Majority of workforce is in 30–50 age group
 Certain races dominate dataset (e.g., White population highest)
+
 
 👉 Conclusion: Dataset is not evenly distributed → affects analysis
 
