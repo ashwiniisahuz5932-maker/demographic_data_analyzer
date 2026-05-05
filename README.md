@@ -53,6 +53,8 @@ The goal is to move beyond raw data and extract meaningful insights using data a
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 Key Discoveries 
+
+
 🎓 1. Education has a strong impact on income
 People with higher education earn >50K at ~46.5%
 People without higher education earn >50K at only ~17.4%
