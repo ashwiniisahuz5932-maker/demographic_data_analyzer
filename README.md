@@ -52,6 +52,33 @@ The goal is to move beyond raw data and extract meaningful insights using data a
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+📊 Key Discoveries 
+🎓 1. Education has a strong impact on income
+People with higher education earn >50K at ~46.5%
+People without higher education earn >50K at only ~17.4%
+👉 Conclusion: Education significantly increases earning potential
+
+⏱ 2. Working hours matter, but not alone
+Most high earners work 40–50 hours/week
+People working minimum hours rarely earn >50K (~10%)
+👉 Conclusion: More hours help, but skills/education matter more
+
+🌍 3. Income varies a lot by country
+Iran has highest % of people earning >50K (~41.9%)
+👉 Conclusion: Geography plays a role in income distribution
+
+👨‍💼 4. Occupation plays a key role
+In India, top high-paying job = Prof-specialty
+👉 Conclusion: Specialized professions dominate high-income groups
+
+👥 5. Demographic distribution insight
+Majority of workforce is in 30–50 age group
+Certain races dominate dataset (e.g., White population highest)
+👉 Conclusion: Dataset is not evenly distributed → affects analysis
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🛠 Tech Stack
 
 - Python
